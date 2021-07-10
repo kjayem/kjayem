@@ -9,9 +9,10 @@ Then I use other forms of expression like coding for the visual side of things.
 Anyways... I hope you enjoy looking around my github page!
 
 I am also active on these platforms 👇👇👇
-<br><a href="https://www.instagram.com/j00my/" target="_blank" style="color: white;">Instagram</a><br> 
-<a href="https://www.facebook.com/jayem.kweon.3/" target="_blank">Facebook</a><br>
-<a href="https://soundcloud.com/urbanchamp" target="_blank">Soundcloud</a><br>
-<a href="mailto:flwfeeld@gmail.com" class="email" target="_blank">Email Me!</a><br>
+<br>
+📷<a href="https://www.instagram.com/j00my/" target="_blank">Instagram</a><br> 
+📷<a href="https://www.facebook.com/jayem.kweon.3/" target="_blank">Facebook</a><br>
+🎧<a href="https://soundcloud.com/urbanchamp" target="_blank">Soundcloud</a><br>
+✉️<a href="mailto:flwfeeld@gmail.com" class="email" target="_blank">Email Me!</a><br>
 
 
