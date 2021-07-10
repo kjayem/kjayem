@@ -8,6 +8,6 @@ Then I use other forms of expression like coding for the visual side of things.
 
 Anyways... I hope you enjoy looking around my github page!
 
-[instagram]https://www.instagram.com/j00my/
+<a href="https://www.instagram.com/j00my/" target="_blank">Instagram</a>
 
 
