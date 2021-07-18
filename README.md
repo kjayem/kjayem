@@ -13,6 +13,5 @@ I am also active on these platforms 👇👇👇
 🎧<a href="https://soundcloud.com/urbanchamp" target="_blank">Soundcloud</a><br>
 ✉️<a href="mailto:flwfeeld@gmail.com" class="email" target="_blank">Email Me!</a><br>
 
-I hope you enjoy looking around my github page :)
 
 
