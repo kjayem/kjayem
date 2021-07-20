@@ -13,5 +13,7 @@ I am also active on these platforms 👇👇👇
 🎧<a href="https://soundcloud.com/urbanchamp" target="_blank">Soundcloud</a><br>
 ✉️<a href="mailto:flwfeeld@gmail.com" class="email" target="_blank">Email Me!</a><br>
 
+코딩 공부노트: https://dear-math-110.notion.site/db7d79b514d0424595295d8fc7df1a75
+
 
 
