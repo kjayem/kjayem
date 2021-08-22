@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I am an artist from Seoul, South Korea.
-
-For me, creating things to express my thoughts and feelings has given me one of the biggest joys in life. My favorite way of expression is through sound, which I play through music in ways such as producing music, playing instruments, and listening to them.
-
-Then I use other forms of expression like coding for the visual side of things.
+I am an creative developer / producer from Seoul, South Korea!
 
 I am also active on these platforms 👇👇👇
 <br>
